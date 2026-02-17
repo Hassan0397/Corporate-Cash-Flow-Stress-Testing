@@ -133,5 +133,13 @@ This platform allows enterprises to:
 git clone https://github.com/your-username/ai-corporate-cashflow-platform.git
 cd ai-corporate-cashflow-platform
 
+```
+
+## 2️⃣ Create Virtual Environment
+
+```bash
+python -m venv venv
+venv\Scripts\activate
+```
 
 
