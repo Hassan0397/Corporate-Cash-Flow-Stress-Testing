@@ -50,6 +50,94 @@ This platform enables:
 
 ---
 
+# 📄 Page-by-Page Breakdown
+
+---
+
+## 1️⃣ Data Load Page  
+**Purpose:** Enterprise-grade financial data ingestion & validation  
+
+- 6-step validation pipeline (data types, date integrity, missing values, outliers)  
+- Data quality scoring dashboard  
+- Statistical summaries & memory optimization tracking  
+- Financial schema validation (Revenue, Capex, Debt, Cash, FCF, FX, Inflation)
+
+---
+
+## 2️⃣ Data Cleaning Page  
+**Purpose:** Financial preprocessing & intelligent feature engineering  
+
+- Domain-aware imputation (median, mean, forward/backward fill)  
+- Outlier treatment (Winsorization / flagging)  
+- Lag feature engineering (1–12 months)  
+- Rolling statistics & financial ratio engineering  
+- Automated quality scoring (completeness, consistency, validity)
+
+---
+
+## 3️⃣ Exploratory Data Analysis (EDA) Page  
+**Purpose:** Executive-level financial intelligence  
+
+- Financial health score (Profitability, Liquidity, Stability, Growth)  
+- Correlation heatmaps & relationship explorer  
+- Seasonality detection & YoY trend analysis  
+- Automated strategic insights & recommendations
+
+---
+
+## 4️⃣ Time Series Forecasting Page  
+**Purpose:** Predictive cash flow modeling  
+
+- Prophet (trend + seasonality + changepoints)  
+- ARIMA/SARIMA with stationarity testing  
+- LSTM deep learning sequence modeling  
+- Ensemble forecasting with uncertainty bands  
+- Performance metrics (MAE, RMSE, MAPE, R²)
+
+---
+
+## 5️⃣ Monte Carlo Simulation Page  
+**Purpose:** Probabilistic risk quantification  
+
+- 10,000–50,000 simulations  
+- VaR & Conditional VaR calculation  
+- Cash runway survival probability  
+- Burn rate forecasting  
+- Revenue & cost shock stress testing  
+
+---
+
+## 6️⃣ Scenario Analysis Page  
+**Purpose:** Macroeconomic stress modeling  
+
+- Prebuilt recession, inflation, FX, and interest rate shock scenarios  
+- Tornado sensitivity charts  
+- Break-even contour modeling  
+- Risk-return comparison dashboards  
+
+---
+
+## 7️⃣ Machine Learning Page  
+**Purpose:** Advanced predictive modeling  
+
+- Regression (cash flow forecasting)  
+- Classification (default risk prediction)  
+- Anomaly detection (Isolation Forest, One-Class SVM)  
+- Feature importance & hyperparameter tuning  
+
+---
+
+## 8️⃣ GenAI Insights Page  
+**Purpose:** AI-powered executive reporting  
+
+- GPT-4 / Gemini integration  
+- Board-ready executive summaries  
+- Risk narrative explanation  
+- Strategic action recommendations  
+- Customizable report configuration  
+
+---
+
 # 🏗️ System Architecture
 
 ## 🔄 Data Flow Pipeline
