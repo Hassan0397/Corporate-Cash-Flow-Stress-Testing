@@ -146,3 +146,10 @@ venv\Scripts\activate
 ```bash
 pip install -r requirements.txt
 ```
+
+ ## use API Key using PowerShell Command
+ ```bash
+ $env:OPENAI_API_KEY="your_openai_api_key_here"
+$env:GEMINI_API_KEY="your_gemini_api_key_here"
+ ```
+
