@@ -43,3 +43,95 @@ This platform enables:
 LOAD → CLEAN → EXPLORE → FORECAST → MONTE CARLO → ML → GEN AI → REPORT
 
 
+## 🧩 Core Modules
+
+| Module | Purpose |
+|--------|----------|
+| `app.py` | Enterprise dashboard controller & session management |
+| `load_data.py` | Data ingestion & 6-step validation pipeline |
+| `clean_data.py` | Financial preprocessing & feature engineering |
+| `exploratory_data_analysis.py` | Financial health scoring & analytics |
+| `time_series_forecasting.py` | Prophet, ARIMA, LSTM ensemble forecasting |
+| `monte_carlo_simulations.py` | 10K+ simulation probabilistic risk engine |
+| `scenario_analysis.py` | Macroeconomic stress & what-if modeling |
+| `ml_models.py` | Regression, classification, anomaly detection |
+| `genai_insights.py` | GPT-4 / Gemini executive reporting |
+| `helpers.py` | Utility, statistical & formatting foundation |
+
+---
+
+# 📊 Core Capabilities
+
+## 1️⃣ Financial Intelligence
+- Automated financial health scoring  
+- Seasonality & correlation analysis  
+- Executive-level insights  
+
+## 2️⃣ Multi-Model Forecasting
+- Prophet (trend & seasonality)
+- ARIMA/SARIMA
+- LSTM Neural Networks
+- Ensemble predictions with confidence intervals
+
+## 3️⃣ Monte Carlo Risk Engine
+- 10,000–50,000 simulations
+- Value at Risk (VaR 90/95/99%)
+- Conditional VaR (CVaR)
+- Cash runway survival curves
+- Revenue & cost shock testing
+
+## 4️⃣ Scenario & Sensitivity Analysis
+- Recession / Inflation / FX Crisis / Rate Shock modeling
+- Tornado charts
+- Break-even contour analysis
+- Risk-return comparison matrix
+
+## 5️⃣ Machine Learning Engine
+- Regression (cash flow forecasting)
+- Classification (default risk prediction)
+- Anomaly detection (fraud/error detection)
+- Feature importance analysis
+- Hyperparameter tuning with cross-validation
+
+## 6️⃣ Generative AI Reporting
+- GPT-4 & Gemini integration
+- Executive summaries
+- Strategic recommendations
+- Board-ready reports
+- Risk narrative explanations
+
+---
+
+# 📈 Business Impact
+
+This platform allows enterprises to:
+
+- Quantify downside liquidity risk  
+- Optimize capital allocation  
+- Stress test macroeconomic shocks  
+- Improve board-level communication  
+- Transition from reactive reporting to predictive strategy  
+
+---
+
+# 🛠 Technology Stack
+
+**Frontend:** Streamlit, Plotly, Custom CSS  
+**Data Processing:** Pandas, NumPy, SciPy  
+**Statistics:** StatsModels  
+**Machine Learning:** Scikit-learn, XGBoost, LightGBM, TensorFlow  
+**Forecasting:** Prophet, ARIMA  
+**Generative AI:** OpenAI GPT-4, Google Gemini  
+
+---
+
+# ⚙️ Installation & Setup
+
+## 1️⃣ Clone Repository
+
+```bash
+git clone https://github.com/your-username/ai-corporate-cashflow-platform.git
+cd ai-corporate-cashflow-platform
+
+
+
