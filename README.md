@@ -40,4 +40,6 @@ This platform enables:
 
 ## 🔄 Data Flow Pipeline
 
+LOAD → CLEAN → EXPLORE → FORECAST → MONTE CARLO → ML → GEN AI → REPORT
+
 
