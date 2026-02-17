@@ -1,0 +1,40 @@
+# Core Data & Computation
+pandas
+numpy
+scipy
+
+# Visualization
+streamlit
+plotly
+matplotlib
+seaborn
+
+# Machine Learning & Forecasting
+scikit-learn
+statsmodels
+prophet
+tensorflow  # or pytorch if preferred
+keras
+
+# Monte Carlo & Statistical Analysis
+pymc3 # For Bayesian modeling
+numba  # For acceleration
+
+# Time Series
+pmdarima
+tsfresh
+
+# GenAI Integration
+openai  # For GPT integration
+google-generativeai  # For Gemini
+langchain
+python-dotenv # For .env file handling
+
+# Utilities
+joblib
+pydantic
+python-dateutil
+
+# Optional for advanced features
+streamlit-aggrid # For better tables
+streamlit-extras
