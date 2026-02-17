@@ -74,6 +74,15 @@ This platform enables:
 ---
 
 ## 2️⃣ Data Cleaning Page  
+
+**[Data Cleaning Preview 1](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Data%20Cleaning%20Preview%201.png)**
+
+**[Data Cleaning Preview 2](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Data%20Cleaning%20Preview%202.png)**
+
+**[Data Cleaning Preview 3](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Data%20Cleaning%20Preview%203.png)**
+
+**[Data Cleaning Preview 4](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Data%20Cleaning%20Preview%204.png)**
+
 **Purpose:** Financial preprocessing & intelligent feature engineering  
 
 - Domain-aware imputation (median, mean, forward/backward fill)  
