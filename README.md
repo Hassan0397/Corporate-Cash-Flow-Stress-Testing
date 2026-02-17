@@ -54,7 +54,10 @@ This platform enables:
 
 ---
 
-## 1️⃣ Data Load Page  
+## 1️⃣ Data Load Page
+
+**[Data Loading Preview 1](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Data%20Loading%20Preview%201.png)**
+
 **Purpose:** Enterprise-grade financial data ingestion & validation  
 
 - 6-step validation pipeline (data types, date integrity, missing values, outliers)  
