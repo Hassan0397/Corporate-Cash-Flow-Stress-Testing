@@ -6,11 +6,26 @@ Modern multinational enterprises operate in highly volatile environments impacte
 
 This project is a **production-grade enterprise financial analytics platform** built with Streamlit that transforms raw financial data into:
 
-- 📊 Predictive cash flow forecasts  
-- 📉 Probabilistic risk modeling (VaR / CVaR)  
-- 🧪 Monte Carlo stress testing (10K–50K simulations)  
-- 🤖 AI-generated executive summaries (GPT-4 / Gemini)  
-- 📈 Strategic decision-support dashboards  
+---
+
+
+- Architected and deployed a **production-grade financial analytics platform** enabling CFO and treasury teams to perform predictive cash flow forecasting, probabilistic risk modeling, and macroeconomic stress testing within a unified dashboard.
+
+- Engineered a modular **9-page analytics workflow** including Data Loading, Data Cleaning, EDA, Time-Series Forecasting, Monte Carlo Simulation (10K–50K runs), Scenario Modeling, ML Engine, and AI-Generated Executive Reporting.
+
+- Built a **multi-model ensemble forecasting pipeline (Prophet, ARIMA, LSTM)** with automated hyperparameter tuning and confidence interval estimation, improving forecast robustness under volatile financial conditions.
+
+- Designed a high-performance **Monte Carlo risk engine** computing VaR (90/95/99%), CVaR, survival probability, and cash runway projections, enabling quantified downside liquidity assessment.
+
+- Implemented a macroeconomic **stress testing & sensitivity analysis framework**, modeling recession, inflation, FX crisis, and rate shock scenarios with tornado charts and break-even contour analysis.
+
+- Developed ML pipelines for **cash flow regression, default risk classification, and anomaly detection**, integrating advanced feature engineering (lag features, rolling statistics, financial ratios) and model explainability techniques.
+
+- Integrated **Generative AI (GPT-4 / Gemini)** to auto-generate executive summaries, strategic recommendations, and board-ready risk reports directly from quantitative outputs.
+
+- Engineered enterprise-grade UI/UX using Streamlit with session state management, caching optimization, modular architecture, and custom professional design components.
+
+---
 
 It combines financial domain expertise with advanced data science, machine learning, and Generative AI in a modular, scalable architecture.
 
