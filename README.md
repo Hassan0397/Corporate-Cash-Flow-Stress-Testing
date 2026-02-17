@@ -25,7 +25,6 @@ This project is a **production-grade enterprise financial analytics platform** b
 
 - Engineered enterprise-grade UI/UX using Streamlit with session state management, caching optimization, modular architecture, and custom professional design components.
 
----
 
 It combines financial domain expertise with advanced data science, machine learning, and Generative AI in a modular, scalable architecture.
 
