@@ -179,6 +179,31 @@ This platform enables:
 ---
 
 ## 6️⃣ Scenario Analysis Page  
+
+**[Scenario Analysis Preview 1](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%201.png)**
+
+**[Scenario Analysis Preview 2](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%202.png)**
+
+**[Scenario Analysis Preview 3](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%203.png)**
+
+**[Scenario Analysis Preview 4](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%204.png)**
+
+**[Scenario Analysis Preview 5](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%205.png)**
+
+**[Scenario Analysis Preview 6](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%206.png)**
+
+**[Scenario Analysis Preview 7](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%207.png)**
+
+**[Scenario Analysis Preview 8](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%208.png)**
+
+**[Scenario Analysis Preview 9](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%209.png)**
+
+**[Scenario Analysis Preview 10](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%2010.png)**
+
+**[Scenario Analysis Preview 11](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%2011.png)**
+
+**[Scenario Analysis Preview 12](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Scenario%20Analysis%20Preview%2012.png)**
+
 **Purpose:** Macroeconomic stress modeling  
 
 - Prebuilt recession, inflation, FX, and interest rate shock scenarios  
