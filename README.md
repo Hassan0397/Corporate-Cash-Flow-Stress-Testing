@@ -94,6 +94,25 @@ This platform enables:
 ---
 
 ## 3️⃣ Exploratory Data Analysis (EDA) Page  
+
+**[EDA Preview 1](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/EDA%20Preview%201.png)**
+
+**[EDA Preview 2](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/EDA%20Preview%202.png)**
+
+**[EDA Preview 3](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/EDA%20Preview%203.png)**
+
+**[EDA Preview 4](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/EDA%20Preview%204.png)**
+
+**[EDA Preview 5](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/EDA%20Preview%205.png)**
+
+**[EDA Preview 6](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/EDA%20Preview%206.png)**
+
+**[EDA Preview 7](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/EDA%20Preview%207.png)**
+
+**[EDA Preview 8](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/EDA%20Preview%208.png)**
+
+**[EDA Preview 9](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/EDA%20Preview%209.png)**
+
 **Purpose:** Executive-level financial intelligence  
 
 - Financial health score (Profitability, Liquidity, Stability, Growth)  
