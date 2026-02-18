@@ -122,7 +122,28 @@ This platform enables:
 
 ---
 
-## 4️⃣ Time Series Forecasting Page  
+## 4️⃣ Time Series Forecasting Page 
+
+**[Time Series Forecasting Preview 1](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%201.png)**
+
+**[Time Series Forecasting Preview 2](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%202.png)**
+
+**[Time Series Forecasting Preview 3](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%203.png)**
+
+**[Time Series Forecasting Preview 4](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%204.png)**
+
+**[Time Series Forecasting Preview 5](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%205.png)**
+
+**[Time Series Forecasting Preview 6](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%206.png)**
+
+**[Time Series Forecasting Preview 7](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%207.png)**
+
+**[Time Series Forecasting Preview 8](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%208.png)**
+
+**[Time Series Forecasting Preview 9](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%209.png)**
+
+**[Time Series Forecasting Preview 10](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Time%20Series%20Forecasting%20Preview%2010.png)**
+
 **Purpose:** Predictive cash flow modeling  
 
 - Prophet (trend + seasonality + changepoints)  
