@@ -214,6 +214,15 @@ This platform enables:
 ---
 
 ## 7️⃣ Machine Learning Page  
+
+**[Machine learning Model Preview 1](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Machine%20learning%20Model%20Preview%201.png)**
+
+**[Machine learning Model Preview 2](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Machine%20learning%20Model%20Preview%202.png)**
+
+**[Machine learning Model Preview 3](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Machine%20learning%20Model%20Preview%203.png)**
+
+**[Machine learning Model Preview 4](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Machine%20learning%20Model%20Preview%204.png)**
+
 **Purpose:** Advanced predictive modeling  
 
 - Regression (cash flow forecasting)  
