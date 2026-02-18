@@ -155,6 +155,19 @@ This platform enables:
 ---
 
 ## 5️⃣ Monte Carlo Simulation Page  
+
+**[Monte Carlo Simulations Preview 1](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Monte%20Carlo%20Simulations%20Preview%201.png)**
+
+**[Monte Carlo Simulations Preview 2](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Monte%20Carlo%20Simulations%20Preview%202.png)**
+
+**[Monte Carlo Simulations Preview 3](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Monte%20Carlo%20Simulations%20Preview%203.png)**
+
+**[Monte Carlo Simulations Preview 4](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Monte%20Carlo%20Simulations%20Preview%204.png)**
+
+**[Monte Carlo Simulations Preview 5](https://github.com/Hassan0397/Corporate-Cash-Flow-Stress-Testing/blob/main/Monte%20Carlo%20Simulations%20Preview%205.png)**
+
+
+
 **Purpose:** Probabilistic risk quantification  
 
 - 10,000–50,000 simulations  
